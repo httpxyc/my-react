@@ -1,0 +1,12 @@
+{
+	"name": "react-reconciler",
+	"version": "1.0.0",
+	"description": "react reconciler相关：fiberNode",
+	"main": "index.ts",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"shared": "workspace:^"
+	}
+}
